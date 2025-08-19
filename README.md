@@ -62,7 +62,7 @@ As a **Project member** of the Innoguide project, I was actively involved in **m
 - **Successful Deployment** – Showcased at **CFI Open House 2024**.  
 - **Media Recognition** – Featured in *The Hindu* newspaper for innovation in assistive technology.  
 - [Read the article here](https://www.thehindu.com/news/national/tamil-nadu/iit-m-showcases-an-array-of-innovative-technology/article67910616.ece)
-![Innoguide at CFI Open House](./assets/innoguide_openhouse.jpg)
+- [Innoguide at CFI Open House](Innoguide/Images/The_Hindu_Article.jpg)
 
 ---
 
