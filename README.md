@@ -45,9 +45,9 @@ As a **Project member** of the Innoguide project, I was actively involved in **m
 ### Electronics & Circuitry
 - Designed the **complete electrical circuitry**, integrating sensors and core components.  
 - Implemented **power isolation techniques** for safe handling of 12V and 5V supplies.  
-- Designed a custom **PWM Switcher PCB** using Multiplexers (MUX) to toggle motor control between Jetson Nano (autonomous mode) and ESP32 (manual mode).  
+- Designed a custom **PWM Switcher PCB** using **Multiplexers (MUX)** to toggle motor control between Jetson Nano (autonomous mode) and ESP32 (manual mode).  
 
-![Custom PWM Switcher PCB]()
+![Custom PWM Switcher PCB](Innoguide/PWM_SWITCHER_PCB/Design.png)
 
 ---
 
