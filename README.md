@@ -38,7 +38,7 @@ As a **Project member** of the Innoguide project, I was actively involved in **m
 - Designed the **aluminum chassis** and performed **strength analysis** in Ansys.  
 - Created and **3D printed** the robot’s outer shell.  
 
-![Chassis & 3D Printed Parts](./assets/robot_chassis.jpg)
+![Chassis & 3D Printed Parts](Innoguide/Images/Skeleton.jpg)
 
 ---
 
@@ -47,7 +47,7 @@ As a **Project member** of the Innoguide project, I was actively involved in **m
 - Implemented **power isolation techniques** for safe handling of 12V and 5V supplies.  
 - Designed a custom **PWM Switcher PCB** using Multiplexers (MUX) to toggle motor control between Jetson Nano (autonomous mode) and ESP32 (manual mode).  
 
-![Custom PWM Switcher PCB](./assets/pwm_switcher_pcb.jpg)
+![Custom PWM Switcher PCB]()
 
 ---
 
@@ -62,7 +62,7 @@ As a **Project member** of the Innoguide project, I was actively involved in **m
 - **Successful Deployment** – Showcased at **CFI Open House 2024**.  
 - **Media Recognition** – Featured in *The Hindu* newspaper for innovation in assistive technology.  
 - [Read the article here](https://www.thehindu.com/news/national/tamil-nadu/iit-m-showcases-an-array-of-innovative-technology/article67910616.ece)
-- [Innoguide at CFI Open House](Innoguide/Images/The_Hindu_Article.jpg)
+- ![Innoguide at CFI Open House](Innoguide/Images/The_Hindu_Article.jpg)
 
 ---
 
