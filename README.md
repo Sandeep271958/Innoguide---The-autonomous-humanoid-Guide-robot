@@ -1,6 +1,6 @@
 # Innoguide: The Autonomous Humanoid Guide Robot
 
-![Innoguide Prototype](./assets/innoguide_prototype.jpg)  
+![Innoguide Prototype](Innoguide/Images/Robot.jpg)  
 *A picture of the Innoguide robot prototype.*
 
 ---
