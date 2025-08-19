@@ -1,4 +1,4 @@
-# 🤖 Innoguide: The Autonomous Humanoid Guide Robot
+# Innoguide: The Autonomous Humanoid Guide Robot
 
 ![Innoguide Prototype](./assets/innoguide_prototype.jpg)  
 *A picture of the Innoguide robot prototype.*
